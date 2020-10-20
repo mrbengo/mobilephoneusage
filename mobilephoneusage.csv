@@ -1,0 +1,37 @@
+@relation mobilephoneusage
+
+@attribute Username {kalfredcollins@gmail.com, lekakeny.karoi@gmail.com, munduwahinya@gmail.com, wesongatimothy@yahoo.com, wairmu1@gmail.com, annnjorige75@gmail.cim, sherym@gmail.com, emynjeri@gmail.com, pokayber@gmail.com, mosiahnjoroge02@gmail.com, gnzonzo@gmail.com, wanjuijoy@yahoo.com, charitynduati17@gmail.com, drantony@gmail.com, dnyaribo@gmail.com, ndunda.em@gmail.com, purity.ndwig@gmail.com, wambuimbugua2015@gmail.com, benamrt@gmail.com, hapenzu@gmail.com}
+@attribute Gender {Male, Female}
+@attribute What age are you? {18 -25 Years, 26 -35 Years, 36 - 45 Years, 46 +}
+@attribute Are you currently a student? {Yes, No}
+@attribute What is your highest Level of Education? {PHD, Masters, Bachelor Degree, Diploma, Certificate}
+@attribute What is your current phone brand? {RedMi, Sumsang, Oneplus, Nokia, Vsun, Htc, Flash, Sonu, Huawei, Oppo, Sharp, Wiko, LG, Iphone}
+@attribute What made you choose the phone brand you have? {Functionality;Look & Feel;Application Store, Functionality;Application Store;Price, Functionality;Look & Feel;Application Store;Price, Functionality, Price, Functionality;Price, Functionality;Look & Feel}
+@attribute Which mobile service operator do you use? {Safaricom;Airtel, Safaricom, Airtel, Faiba 4G, Telcom Kenya}
+@attribute What do you mostly do on your phone? {Send/receive text messages, Access the internet, Play music, Play games, Record videos, Send/receive emails, Access social media sites, Send/receive instant messages, Watch videos, Shop Online, Take pictures}
+@attribute Do you use your mobile phone to access mobile banking facilities? {Yes, No}
+@attribute Do you use your mobile phone while driving? {Never, Only when answering a call}
+@attribute How much time do you spend on your mobile phone on average in a day making/receiving calls only? {Less than 30 minutes, 30 minutes to 1 hour, 1 hour to 2 hours, 2 hours to 3 hours, Above 3 hours}
+@attribute How much time do you spend on your mobile phone on average in a day using the Internet/Apps?	{Less than 30 minutes, 30 minutes to 1 hour, 1 hour to 2 hours, 2 hours to 3 hours, Above 3 hours}
+
+@data
+kalfredcollins@gmail.com,Male,26 -35 Years,Yes,Bachelor Degree,RedMi,Functionality;Look & Feel;Application Store,Safaricom;Airtel,Send/receive text messages;Access the internet;Play music;Play games;Record videos;Send/receive emails;Access social media sites;Send/receive instant messages;Watch videos;Shop Online,Yes,Never,Above 3 hours,Above 3 hours
+lekakeny.karoi@gmail.com,Male,18 -25 Years,Yes,Masters,Sumsang,Functionality;Application Store;Price,Safaricom;Airtel,Send/receive text messages;Take pictures;Access the internet;Record videos;Send/receive emails;Access social media sites;Send/receive instant messages;Watch videos,Yes,Never,Less than 30 minutes,2 hours to 3 hours
+munduwahinya@gmail.com,Male,36 - 45 Years,No,Bachelor Degree,Oneplus,Functionality;Look & Feel;Application Store;Price,Safaricom,Send/receive text messages;Take pictures;Access the internet;Play music;Record videos;Send/receive emails;Access social media sites;Send/receive instant messages;Watch videos;Shop Online,Yes,Never,Less than 30 minutes,1 hour to 2 hours
+wesongatimothy@yahoo.com,Male,26 -35 Years,Yes,Masters,Nokia,Functionality,Safaricom,Send/receive text messages;Take pictures;Access the internet;Play music;Play games;Send/receive emails;Access social media sites;Send/receive instant messages;Watch videos;Shop Online,Yes,Only when answering a call,1 hour to 2 hours,2 hours to 3 hours
+wairmu1@gmail.com,Female,36 - 45 Years,Yes,Bachelor Degree,Vsun,Functionality,Safaricom,Access the internet,Yes,Never,1 hour to 2 hours,1 hour to 2 hours
+annnjorige75@gmail.cim,Female,26 -35 Years,No,Masters,Htc,Functionality,Safaricom,Access the internet,No,Never,30 minutes to 1 hour,Above 3 hours
+sherym@gmail.com,Female,18 -25 Years,Yes,Bachelor Degree,Flash,Functionality,Airtel,Access the internet,No,Never,Above 3 hours,Above 3 hours
+emynjeri@gmail.com,Female,36 - 45 Years,No,Bachelor Degree,Sonu,Functionality,Airtel,Access the internet,No,Never,Above 3 hours,Above 3 hours
+pokayber@gmail.com,Male,26 -35 Years,Yes,Masters,Nokia,Price,Safaricom,Send/receive text messages;Take pictures;Play music;Send/receive emails;Access social media sites;Watch videos;Shop Online,Yes,Only when answering a call,Above 3 hours,Above 3 hours
+mosiahnjoroge02@gmail.com,Male,26 -35 Years,Yes,Masters,Huawei,Functionality,Safaricom,Send/receive text messages;Access the internet;Send/receive emails;Access social media sites;Send/receive instant messages,Yes,Only when answering a call,30 minutes to 1 hour,30 minutes to 1 hour
+gnzonzo@gmail.com,Female,26 -35 Years,No,Masters,Oppo,Functionality,Safaricom;Airtel,Send/receive text messages;Take pictures;Access the internet;Send/receive emails;Access social media sites,Yes,Only when answering a call,2 hours to 3 hours,1 hour to 2 hours
+wanjuijoy@yahoo.com,Female,26 -35 Years,No,Diploma,Sharp,Functionality,Faiba 4G,Access the internet,No,Never,30 minutes to 1 hour,30 minutes to 1 hour
+charitynduati17@gmail.com,Female,46 +,No,Diploma,Wiko,Price,Airtel,Access the internet,No,Never,1 hour to 2 hours,1 hour to 2 hours
+drantony@gmail.com,Male,46 +,No,Masters,LG,Functionality,Telcom Kenya,Access the internet,No,Never,30 minutes to 1 hour,30 minutes to 1 hour
+dnyaribo@gmail.com,Male,36 - 45 Years,No,Bachelor Degree,Oppo,Functionality,Safaricom;Airtel,Send/receive text messages;Take pictures;Access the internet;Send/receive emails;Access social media sites;Send/receive instant messages,Yes,Never,1 hour to 2 hours,1 hour to 2 hours
+ndunda.em@gmail.com,Male,26 -35 Years,No,Masters,Huawei,Functionality;Price,Safaricom;Airtel,Send/receive text messages;Access the internet;Play music;Send/receive emails;Access social media sites;Send/receive instant messages;Watch videos;Shop Online,Yes,Only when answering a call,30 minutes to 1 hour,1 hour to 2 hours
+purity.ndwig@gmail.com,Female,36 - 45 Years,No,Masters,Sumsang,Functionality;Look & Feel,Safaricom;Airtel,Send/receive text messages;Access social media sites,Yes,Never,2 hours to 3 hours,2 hours to 3 hours
+wambuimbugua2015@gmail.com,Female,26 -35 Years,Yes,Masters,Oppo,Functionality,Safaricom,Send/receive text messages;Access the internet;Play music;Send/receive emails;Access social media sites;Send/receive instant messages;Watch videos,No,Never,Less than 30 minutes,Above 3 hours
+benamrt@gmail.com,Male,36 - 45 Years,Yes,Masters,Sumsang,Functionality,Safaricom,Send/receive text messages,No,Only when answering a call,30 minutes to 1 hour,1 hour to 2 hours
+hapenzu@gmail.com,Male,36 - 45 Years,Yes,Masters,Iphone,Functionality,Airtel,Send/receive instant messages,Yes,Only when answering a call,Above 3 hours,2 hours to 3 hours
